@@ -149,6 +149,13 @@
 
 [빡빡이 아저씨 - 골반 기저근](https://www.youtube.com/watch?v=bCFAcAA2VUI)
 
+## 손목
+손목의 경우는 인체 공학 키보드, 마우스를 쓰거나 손목 받침대 같은 것을 사는 것이 좋다.
+
+[빡빡이 아저씨 - 손목 통증 - 손목터널 증후군 치료 방법](https://www.youtube.com/watch?v=TPoslqZOpHE)
+[빡빡이 아저씨 - 스마트폰 증후군](https://www.youtube.com/watch?v=9VTCCQm6-1g)
+[1boon - 손목터널증후군](https://1boon.kakao.com/styleade/wrist)
+
 # 교정
 
 ## 라운드 숄더
