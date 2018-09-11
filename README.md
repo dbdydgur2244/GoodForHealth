@@ -142,8 +142,11 @@
 ## 어깨
 
 [조제알통 - 평소에하는 어깨 스트레칭](https://www.youtube.com/watch?v=JSf7KhdJVJo) ★★★
+
 [빡빡이 아저씨 - 어깨가 뻐근할 때 하는 스트레칭](https://www.youtube.com/watch?v=XT1dHyI86eQ) ★★★★★
+
 [빡빡이 아저씨 - 극상근 마사지](https://www.youtube.com/watch?v=7nMjjc8FuRU) ★★★★★
+
 
 ## 골반
 
