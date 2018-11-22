@@ -6,14 +6,14 @@
 
 ## 어깨
 
-1. [한조 바디 - 레터럴 로테이션](https://www.youtube.com/watch?v=MlXGsjt7M7g)
+1. [한조 바디 - 레터럴 로테이션](https://www.youtube.com/watch?v=MlXGsjt7M7g&t=650s)
    - 어깨 안정화 훈련이다.
    - 팔의 위치는 고정하고 회전한다. 천천히 긴장을 유지하고 회전
    - 어깨 운동하기 전에 무조건 하자.
    
 2. [한조 바디 - 프론트 레이즈](https://www.youtube.com/watch?v=-9faW47OWVA)
    [초보자 버전](https://www.youtube.com/watch?v=RuQSH745eZM)
-   - 어깨를 고정하고 팔을 천천이 올렸다 내린다.
+   - 어깨를 고정하고 두 팔을 앞쪽으로 평행하게 천천이 올렸다 내린다.
    - 올릴 때 약간 지면과 수평하게 올리는 것이 좋다.
    - 천천히 내려올 때 긴장이 풀리기 직전까지만 내린다.
    - 두 손으로 하기 어려우면 한 손으로 반복하는 것도 좋다.
@@ -191,7 +191,10 @@
      6set - 중간 무게 20회 15회 / 최고 무게 15회 * 4, 12회
 ## 하체
 
-1. [한조 바디 - 스쿼트]()
+1. [한조 바디 - 스쿼트](https://www.youtube.com/watch?v=kiJ5ielW0_8&t=16s)
+   - 안정성이 떨어질 때
+     1. 의자 사용: [박스 스쿼트](https://www.youtube.com/watch?v=kiJ5ielW0_8&t=257s)
+     2. 유연성: [스트레칭](https://www.youtube.com/watch?v=kiJ5ielW0_8&t=302s)
    - [벗윙크](https://www.youtube.com/watch?v=QEjxxS178Zw) 조심
      허리에 가중되는 무게가 엄청나게 많아져서 스트레스로 인해 다칠 수 있다. 
      **고관절을 넓게 벌려**주면 덜하는데 이는 **무릎을 넓게 벌리는 것**을 통해서 할 수 있다.
